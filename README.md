@@ -45,16 +45,16 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Caeser-s-Encryption-Method-with-Python-Functions </td>
+<td>A reuse of the old caeser's message encryption method with python </td>
+<td>using caeser's mode for message encryption with python functions. </td>
 </tr>
 
 <tr>
 <td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> My-simple-Calculator </td>
+<td> A simple calculator project with python that employs the use loops and other useful tools. </td>
+<td> This is a simple calculator written in python. The base of the code for this calculator uses comprehensive python tools like loops and dictionaries. </td>
 </tr>
 
 </tbody>
