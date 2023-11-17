@@ -78,7 +78,6 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 <td>1</td>
 <td> </td>
 <td>Indian-Start-up-Project</td>
-<td>As the data expert of your team, you have been tasked with investigating the Indian start-up ecosystem</td>
 <td>https://israelanaba.medium.com/credit-microsoft-teams-image-getty-image-98fb01e63875</td>
 <td>-----</td>
 <td>-----</td>
