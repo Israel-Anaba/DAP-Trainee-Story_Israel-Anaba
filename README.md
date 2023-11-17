@@ -26,7 +26,7 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 `My dream role is to work as a Machine Learning Engineer at SpaceX. Additionally, I aim to engage in creating vibrant, child-friendly editorials about artificial intelligence, fostering a love for technology among younger audiences.`
 
 ## 1st Phase Projects' Summary Table
-`Please add text here...`
+<!-- `Please add text here...` -->
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
@@ -61,7 +61,7 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 </table>
 
 ## Career Accelerator Projects' Summary Table
-`Please add text here...`
+<!-- `Please add text here...` -->
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
@@ -76,7 +76,7 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 
 <tr>
 <td>1</td>
-<td> Indian-Start-up-Project </td>
+<td> Indian Start-up Ecosystem </td>
 <td>As the data expert of your team, you have been tasked with investigating the Indian start-up ecosystem</td>
 <td>https://israelanaba.medium.com/credit-microsoft-teams-image-getty-image-98fb01e63875</td>
 <td>-----</td>
@@ -86,62 +86,72 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Telco Customer Attrition Case</td>
+<td>This project is a Supervised Machine Learning which aims to analyze customer churn, identify key indicators, and develop strategies for customer retention</td>
+<td>https://israelanaba.medium.com/defying-telco-churn-leveraging-machine-learning-for-customer-retention-success-4e535b946ca0</td>
+<td> ----- </td>
+<td> ----- </td>
+<td>https://github.com/Israel-Anaba/Classification-Project-Customer-Attrition-Case</td>
 </tr>
 
 <tr>
 <td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Regression with Time Series </td>
+<td> The objective is to develop a precise model for unit sales predictions across various items and stores, empowering better inventory management and sales strategies. </td>
+<td>https://israelanaba.medium.com/revolutionizing-retail-unleashing-the-power-of-time-series-forecasting-to-optimize-store-sales-91104347f644 </td>
+<td> ----- </td>
+<td> ----- </td>
+<td> https://github.com/Israel-Anaba/Regression_Time_Series </td>
 </tr>
 
 <tr>
 <td>4</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Embedding models using Gradio </td>
+<td> This project creates a user-friendly interface using Gradio to help a telecommunications company manage customer churn, leveraging a machine learning model. </td>
+<td>https://israelanaba.medium.com/bridging-data-science-and-actionable-insights-deploying-a-customer-churn-prediction-model-with-936b75310f0e </td>
+<td> ----- </td>
+<td> https://github.com/Israel-Anaba/ML-Model-in-Gradio/tree/main/src </td>
+<td> https://github.com/Israel-Anaba/ML-Model-in-Gradio </td>
+</tr>
+
+<tr>
+<td>4</td>
+<td> Emedding models using Streamlit </td>
+<td> This project creates a user-friendly interface using Streamlit to help a predicting sales forecasting, leveraging a machine learning model. </td>
+<td> https://israelanaba.medium.com/demystifying-data-deployment-empowering-insights-with-streamlit-19c141e36ddf </td>
+<td> ----- </td>
+<td> https://github.com/Israel-Anaba/ML-Model-in-GUI/tree/main/src </td>
+<td> https://github.com/Israel-Anaba/ML-Model-in-GUI </td>
 </tr>
 
 <tr>
 <td>5</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Sentiment Analysis Using NLP </td>
+<td> I Fine tuning Deep learning models to make sentiment predictions. </td>
+<td> https://israelanaba.medium.com/exploring-nlps-potential-refining-roberta-for-analyzing-sentiments-in-covid-vaccine-tweets-8e904aeecbb7 </td>
+<td> https://huggingface.co/spaces/gr8testgad-1/Sentiment_analysis_Roberta?logs=container </td>
+<td> https://github.com/Israel-Anaba/Sentiment-Analysis-using-NLP/tree/main/src </td>
+<td> https://github.com/Israel-Anaba/Sentiment-Analysis-using-NLP </td>
 </tr>
 
 <tr>
 <td>6</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Embed ML model in Webapp using FastAPI </td>
+<td> This project focuses on embedding a Machine Learning model into a web application like FastAPI. </td>
+<td> https://israelanaba.medium.com/fastapi-unleashed-integrating-machine-learning-models-with-ease-ad00bf5b8b06 </td>
+<td> https://gr8testgad-1-sepsis-prediction.hf.space/docs </td>
+<td> https://github.com/Israel-Anaba/Embed_ML_Model_Web_App/tree/main/src </td>
+<td> https://github.com/Israel-Anaba/Embed_ML_Model_Web_App </td>
 </tr>
 
 <tr>
 <td>Capstsone</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Movie Review Sentiment Analysis </td>
+<td> The project's goal is to analyze text sentiment, determining whether a given sentence conveys a positive or negative sentiment. </td>
+<td> https://israelanaba.medium.com/mastering-sentiment-analysis-a-data-science-project-with-azubi-africa-28106a33d0b5 </td>
+<td> https://huggingface.co/spaces/gr8testgad-1/Movie-Review-Sentiment-Roberta </td>
+<td> https://github.com/Israel-Anaba/Movie_Review_Analysis/tree/main/src </td>
+<td> https://github.com/Israel-Anaba/Movie_Review_Analysis </td>
 </tr>
 
 </tbody>
