@@ -77,11 +77,12 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 <tr>
 <td>1</td>
 <td> </td>
-<td>Add the project description here...</td>
-<td>Add the article link here...</td>
-<td>Add the deployed app link here...</td>
-<td>Add the app repository link here...</td>
-<td>Add the development repository link here...</td>
+<td>Indian-Start-up-Project</td>
+<td>As the data expert of your team, you have been tasked with investigating the Indian start-up ecosystem</td>
+<td>https://israelanaba.medium.com/credit-microsoft-teams-image-getty-image-98fb01e63875</td>
+<td>-----</td>
+<td>-----</td>
+<td>https://github.com/Israel-Anaba/Edinburgh-Indian-Start-up-Project</td>
 </tr>
 
 <tr>
