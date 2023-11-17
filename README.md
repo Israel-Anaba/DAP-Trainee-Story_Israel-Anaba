@@ -38,9 +38,9 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Data Visualization Project</td>
-<td>Add any additional info here...</td>
+<td> Pandas For Everybody </td>
+<td>In this project i employ the use pandas for calculation</td>
+<td>This project uses the rudiment of the pandas library by bascically breaking down a dataset into a dimensional frame. It then uses the information of the dataset to do some simple calculations.</td>
 </tr>
 
 <tr>
