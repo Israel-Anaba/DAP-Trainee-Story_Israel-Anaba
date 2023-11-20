@@ -147,7 +147,7 @@ Here is the place I tell the story of my experience at The Azubi Africa Data Ana
 <td>Capstsone</td>
 <td> Movie Review Sentiment Analysis </td>
 <td> The project's goal is to analyze text sentiment, determining whether a given sentence conveys a positive or negative sentiment. </td>
-<td> (Mastering Sentiment Analysis: A Data Science Project with Azubi Africa)[https://israelanaba.medium.com/mastering-sentiment-analysis-a-data-science-project-with-azubi-africa-28106a33d0b5] </td>
+<td> https://israelanaba.medium.com/mastering-sentiment-analysis-a-data-science-project-with-azubi-africa-28106a33d0b5 </td>
 <td> https://huggingface.co/spaces/gr8testgad-1/Movie-Review-Sentiment-Roberta </td>
 <td> https://github.com/Israel-Anaba/Movie_Review_Analysis/tree/main/src </td>
 <td> https://github.com/Israel-Anaba/Movie_Review_Analysis </td>
