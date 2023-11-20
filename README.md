@@ -4,7 +4,7 @@ Here is the place I tell the story of my experience at The Azubi Africa Data Ana
 
 
 ## Let me introduce Myself
-`My name is Israel Anaba Ayamga and Prior to venturing into the data field, my professional background was deeply entrenched Finance and administration. Possessing a solid foundation in finance & management, I cultivated a strong problem-solving mindset. My pursuit for excellence sparked the passionate interest in transitioning into the dynamic field of data analytics`
+`My name is Israel Anaba Ayamga and Prior to venturing into the data field, my professional background was deeply entrenched in Finance and administration. Possessing a solid foundation in finance & management, I cultivated a strong problem-solving mindset. My pursuit for excellence sparked the passionate interest in transitioning into the dynamic field of data analytics`
 
 ## How would I describe my experience in the data analytics program ? 
 `Engaging in data analytics has been an intellectually stimulating rollercoaster, and my experience with the program has been nothing short of intriguing and captivating.`
@@ -19,10 +19,10 @@ Here is the place I tell the story of my experience at The Azubi Africa Data Ana
 `Since joining the program, my progress has been a substantially evident from how i see data and how i analyze information. Coming into the knowledge of interesting subjects like Machine Learning,Deep learning and Api has really peaked my interest in using Artificial Intelligence to make conclusive deductions from any given information and broadened my appreciation for the tech space.`
 
 ## What are my plans for the future ?
-`My Primary goal is to consistently develop my skills, evolve within the expansive realm of the data field and also make my knowledge accessible to data community and inquiring minds through the means of writing in the role of Technical writer.`
+`My Primary goal is to consistently develop my skills, evolve within the expansive realm of the data field and also make my knowledge accessible to the data community and inquiring minds through the means of writing in the role of a Technical writer.`
 
 ## What is my dream company or role ?
-`My dream role is to work as a Machine Learning Engineer at SpaceX. Additionally, I aim to engage in creating vibrant, child-friendly editorials about artificial intelligence, fostering a love for technology among younger audiences.`
+`My dream role is to work as a Machine Learning Engineer at SpaceX or  a leading Fintech company. Additionally, I aim to engage in creating vibrant, child-friendly editorials about artificial intelligence, fostering a love for technology among younger audiences.`
 
 ## 1st Phase Projects' Summary Table
 <!-- `Please add text here...` -->
@@ -44,14 +44,14 @@ Here is the place I tell the story of my experience at The Azubi Africa Data Ana
 
 <tr>
 <td>2</td>
-<td>Caeser-s-Encryption-Method-with-Python-Functions </td>
+<td>Caesers Encryptions </td>
 <td>A reuse of the old caeser's message encryption method with python </td>
 <td>using caeser's mode for message encryption with python functions. </td>
 </tr>
 
 <tr>
 <td>3</td>
-<td> My-simple-Calculator </td>
+<td> My simple Calculator </td>
 <td> A simple calculator project with python that employs the use loops and other useful tools. </td>
 <td> This is a simple calculator written in python. The base of the code for this calculator uses comprehensive python tools like loops and dictionaries. </td>
 </tr>
@@ -147,7 +147,7 @@ Here is the place I tell the story of my experience at The Azubi Africa Data Ana
 <td>Capstsone</td>
 <td> Movie Review Sentiment Analysis </td>
 <td> The project's goal is to analyze text sentiment, determining whether a given sentence conveys a positive or negative sentiment. </td>
-<td> https://israelanaba.medium.com/mastering-sentiment-analysis-a-data-science-project-with-azubi-africa-28106a33d0b5 </td>
+<td> (Mastering Sentiment Analysis: A Data Science Project with Azubi Africa)[https://israelanaba.medium.com/mastering-sentiment-analysis-a-data-science-project-with-azubi-africa-28106a33d0b5] </td>
 <td> https://huggingface.co/spaces/gr8testgad-1/Movie-Review-Sentiment-Roberta </td>
 <td> https://github.com/Israel-Anaba/Movie_Review_Analysis/tree/main/src </td>
 <td> https://github.com/Israel-Anaba/Movie_Review_Analysis </td>
