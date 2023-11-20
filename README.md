@@ -4,7 +4,7 @@ Here is the place I tell the story of my experience at The Azubi Africa Data Ana
 
 
 ## Let me introduce Myself
-`Prior to venturing into the data field, my professional background was deeply entrenched in Finance and administration in Finance and administration. Possessing a solid foundation in finance & management, I cultivated a strong problem-solving mindset. My pursuit for excellence sparked the passionate interest in transitioning into the dynamic field of data analytics`
+`My name is Israel Anaba Ayamga and Prior to venturing into the data field, my professional background was deeply entrenched Finance and administration. Possessing a solid foundation in finance & management, I cultivated a strong problem-solving mindset. My pursuit for excellence sparked the passionate interest in transitioning into the dynamic field of data analytics`
 
 ## How would I describe my experience in the data analytics program ? 
 `Engaging in data analytics has been an intellectually stimulating rollercoaster, and my experience with the program has been nothing short of intriguing and captivating.`
