@@ -1,8 +1,7 @@
 # DAP-Trainee-Story
 # 📈🧪 Data Analytics Program 🧠📊 : Story of Israel Anaba Ayamga
-Here is the place to tell the story of your experience of the Data Analytics Program.
+Here is the place I tell the story of my experience at The Azubi Africa Data Analytics Program.
 
-**Instruction**: Fork the repo, name it `DAP-Trainee-Story_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
 
 ## Let me introduce Myself
 `Prior to venturing into the data field, my professional background was deeply entrenched in Finance and administration in Finance and administration. Possessing a solid foundation in finance & management, I cultivated a strong problem-solving mindset. My pursuit for excellence sparked the passionate interest in transitioning into the dynamic field of data analytics`
@@ -172,7 +171,7 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 
 4. Are the lectures engaging and interesting? 
 
-   `The lectures were really engaging and attentive. he instructors approached each session with utmost empathy, taking the time to thoroughly explain concepts and ensuring that everyone comprehended the course material.`
+   `The lectures were really engaging and attentive. The instructors approached each session with utmost empathy, taking the time to thoroughly explain concepts and ensuring that everyone comprehended the course material.`
    
 5. What happens if you miss a lecture? 
 
@@ -180,7 +179,7 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 
 6. What do you think of the flexibility of the program? 
 
-   `TThe flexibility of the program greatly contributed to my success. It allowed me to join any lecture session from anywhere in the world with just a screen. In case of missed sessions, there were videos and other accompanying materials available to aid in catching up.`
+   `The flexibility of the program greatly contributed to my success. It allowed me to join any lecture session from anywhere in the world with just a screen. In case of missed sessions, there were videos and other accompanying materials available to aid in catching up.`
 
 7. Do the projects worked on help you test your ability / skills? 
 
@@ -192,19 +191,19 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 
 9. What do you think about the fees structure? 
 
-   `I believe the fees structure is advantageous as it relieves the immediate financial burden, allowing individuals to focus on learning a new skill without the added pressure of immediate funding concerns.`
+    `I believe the fees structure is advantageous as it relieves the immediate financial burden, allowing individuals to focus on learning a new skill without the added pressure of immediate funding concerns.`
 
 10. Would you say Azubi Has Changed your life ? 
 
-   `Without a doubt, Azubi has been transformative for me. Beyond the technical skills and knowledge gained, it has instilled in me a profound appreciation for the values of excellence and hard work. The experience has reshaped not only my professional outlook but also my personal approach towards striving for greatness and constantly pushing my limits.`
+    `Without a doubt, Azubi has been transformative for me. Beyond the technical skills and knowledge gained, it has instilled in me a profound appreciation for the values of excellence and hard work. The experience has reshaped not only my professional outlook but also my personal approach towards striving for greatness and constantly pushing my limits.`
 
 11. Do you think you have gained enough skills through our programme to land your dream job ? 
 
-   `I think I have learned enough to compete in the real world. On top of all the skills I have acquired, the most important thing for me is my ability to communicate my ideas and also a well-formed sense of assertiveness, which I believe I have developed over the period in the program.`
+    `I think I have learned enough to compete in the real world. On top of all the skills I have acquired, the most important thing for me is my ability to communicate my ideas and also a well-formed sense of assertiveness, which I believe I have developed over the period in the program.`
 
 
 ## My Contacts
  [officialanaba@gmail.com](officialanaba@gmail.com)
 
-**NB:**
-Feel free to add more sections if you want to share some thoughts or personal works, etc.
+<!-- **NB:**
+Feel free to add more sections if you want to share some thoughts or personal works, etc. -->
